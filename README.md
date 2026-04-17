@@ -39,7 +39,7 @@ gosts/
 | ГОСТ 2.502-68 | Основные требования к обращению | [`refs/escd_standards_2.xxx-xxyy/rules_for_modification_and_handling_of_design_documentation/`](refs/escd_standards_2.xxx-xxyy/rules_for_modification_and_handling_of_design_documentation/) |
 | ГОСТ 2.503-2013 | Правила внесения изменений | [`refs/escd_standards_2.xxx-xxyy/rules_for_modification_and_handling_of_design_documentation/`](refs/escd_standards_2.xxx-xxyy/rules_for_modification_and_handling_of_design_documentation/) |
 | ГОСТ 2.601-2019 | Эксплуатационные документы | [`refs/escd_standards_2.xxx-xxyy/rules_for_modification_and_handling_of_design_documentation/`](refs/escd_standards_2.xxx-xxyy/rules_for_modification_and_handling_of_design_documentation/) |
-| ГОСТ 2.602-2013 | Ремонтные документы | [`refs/escd_standards_2.xxx-xxyy/rules_for_modification_and_handling_of_design_documentation/`](refs/escd_standards_2.xxx-xxyy_rules_for_modification_and_handling_of_design_documentation/) |
+| ГОСТ 2.602-2013 | Ремонтные документы | [`refs/escd_standards_2.xxx-xxyy/rules_for_modification_and_handling_of_design_documentation/`](refs/escd_standards_2.xxx-xxyy/rules_for_modification_and_handling_of_design_documentation/) |
 | ГОСТ 2.603-68 | Указания нанесения изменений | [`refs/escd_standards_2.xxx-xxyy/rules_for_modification_and_handling_of_design_documentation/`](refs/escd_standards_2.xxx-xxyy/rules_for_modification_and_handling_of_design_documentation/) |
 | ГОСТ 2.604-2000 | Чертёжные документы | [`refs/escd_standards_2.xxx-xxyy/rules_for_modification_and_handling_of_design_documentation/`](refs/escd_standards_2.xxx-xxyy/rules_for_modification_and_handling_of_design_documentation/) |
 | ГОСТ 2.605-68 | Унифицированные документы | [`refs/escd_standards_2.xxx-xxyy/rules_for_modification_and_handling_of_design_documentation/`](refs/escd_standards_2.xxx-xxyy/rules_for_modification_and_handling_of_design_documentation/) |
@@ -88,7 +88,7 @@ gosts/
 
 | Обозначение | Наименование | Папка |
 |------------|---------------|-------|
-| ГОСТ Р ИСО/МЭК 12207-99 | ��ро��ессы жизненного цикла | [`refs/gost_so_mek_9xxx-xx_12xxx-xx_15xxx-xxyy_51xxx_xxyy/`](refs/gost_so_mek_9xxx-xx_12xxx-xx_15xxx-xxyy_51xxx_xxyy/) |
+| ГОСТ Р ИСО/МЭК 12207-99 | Процессы жизненного цикла | [`refs/gost_so_mek_9xxx-xx_12xxx-xx_15xxx-xxyy_51xxx_xxyy/`](refs/gost_so_mek_9xxx-xx_12xxx-xx_15xxx-xxyy_51xxx_xxyy/) |
 | ГОСТ Р ИСО 9126-93 | Характеристики качества | [`refs/gost_so_mek_9xxx-xx_12xxx-xx_15xxx-xxyy_51xxx_xxyy/`](refs/gost_so_mek_9xxx-xx_12xxx-xx_15xxx-xxyy_51xxx_xxyy/) |
 | ГОСТ Р ИСО 9127-94 | Профили и форматы | [`refs/gost_so_mek_9xxx-xx_12xxx-xx_15xxx-xxyy_51xxx_xxyy/`](refs/gost_so_mek_9xxx-xx_12xxx-xx_15xxx-xxyy_51xxx_xxyy/) |
 | ГОСТ Р ИСО 9294-93 | Руководство по качеству | [`refs/gost_so_mek_9xxx-xx_12xxx-xx_15xxx-xxyy_51xxx_xxyy/`](refs/gost_so_mek_9xxx-xx_12xxx-xx_15xxx-xxyy_51xxx_xxyy/) |
